@@ -1,7 +1,5 @@
-# AsteroidsGame
-This is the famous arcade game known as Asteroids programmed in java. This was an important milestone for my pursuit of learning how to program. Developing this game 
-
-
+# CrayonTip Project
+The CrayonTip project is a web application built in Django that allows users to critque graphical designs based on various design elements such as color, contrast, typography, etc. This project allowed me to get a comprehensive understanding on front end programming for a large web application in a developer to client business enviorment. 
 
 <br>
 

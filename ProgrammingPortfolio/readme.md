@@ -1,5 +1,5 @@
 # CrayonTip Project
-The CrayonTip project is a web application built in Django that allows users to critique graphical designs based on various design elements such as color, contrast, typography, etc. This project allowed me to get a comprehensive understanding of front-end programming for a large web application in a developer-to-client business environment. 
+The CrayonTip project is a web application built in Django that allows users to critique graphical designs based on various design elements such as color, contrast, typography, etc. This is done in a 50 question quiz. It features an account registry, log-in, and system code generation for users to send/receive quizzes for a specific design. This project allowed me to get a comprehensive understanding of front-end programming for a large web application in a developer-to-client business environment. 
 
 <br>
 

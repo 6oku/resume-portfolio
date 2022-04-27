@@ -38,7 +38,7 @@ The math skills covered in this game are:
 <br>
 
 # Asteroid Game 
-Asteroids, the space themed arcade game originally developed by Atari. This project's was programmed in java and played a crucial role in me developing my skills as a programmer by challenging me to learn problem solving skills via writing and testing this Asteroids game. 
+Asteroids, the space themed arcade game originally developed by Atari. This project's was programmed in java and played a crucial role in me developing my skills as a programmer by challenging me to learn problem solving skills via writing and testing java program. 
 
 
 

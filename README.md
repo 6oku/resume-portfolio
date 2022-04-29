@@ -1,6 +1,7 @@
 # Welcome
 
-Hi my name is Marco and here is a collection of my work both in programing and design. As you can see there is a folder for each 
+Marco Stetich
+Bachelors of Computer Information Systems
 
 You can also view these pages by clicking one of the hyperlinks below
 

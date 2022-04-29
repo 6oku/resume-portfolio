@@ -1,7 +1,9 @@
 # Welcome
 
-Marco Stetich
+Marco Stetich 
 Bachelors of Computer Information Systems
+
+---
 
 You can also view these pages by clicking one of the hyperlinks below
 

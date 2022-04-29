@@ -6,4 +6,4 @@ You can also view my resume here
 
 [RESUME2022.pdf]({{file name='RESUME2022.pdf'}})
 
-[Here](../resume-portfolio/RESUME2022.pdf)
+[Here](https://github.com/6oku/resume-portfolio/blob/main/RESUME2022.pdf)

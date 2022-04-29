@@ -2,5 +2,5 @@
 
 ---
 
-Here is a collection of files that I have done for various clients or projects
+Here is a collection of design files that I have done for various clients or projects
 

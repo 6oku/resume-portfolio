@@ -4,7 +4,7 @@ WayToWork is a web application built as a solo project for productivity and ment
 <br>
 
 # CrayonTip Project
-The CrayonTip project is a web application built in Django that allows users to critique graphical designs based on various design elements such as color, contrast, typography, etc. This is done in a 50 question quiz. It features an account registry, log-in, and system code generation for users to send/receive quizzes for a specific design. This project allowed me to get a comprehensive understanding of front-end programming for a large web application in a developer-to-client business environment. 
+The CrayonTip project is a web application built in Django that allows users to critique graphical designs based on various design elements such as color, contrast, typography, etc. This is done in a 50 question quiz. It features an account registry, log-in, and system code generation for users to send/receive quizzes for a specific design. This project allowed me to get a comprehensive understanding of front-end programming for a large web application in a developer-to-client business environment. As a group project this taught me a lot about collaborative and communative efforts not only with my team but with client we were working with.
 
 <br>
 

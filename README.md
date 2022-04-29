@@ -1,11 +1,11 @@
 # resume-portfolio
 
-#Resume
+# Resume
 
-#Programming Portfolio
+# Programming Portfolio
 asdasd 
 - asdasd
 - adfasdf
 
 
-#Designing Fortfolio
+# Designing Fortfolio

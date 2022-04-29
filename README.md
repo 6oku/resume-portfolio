@@ -1,11 +1,5 @@
-# resume-portfolio
+# Welcome
 
-# Resume
+Hi my name is Marco and here is a collection of my work both in programing and design. As you can see there is a folder for each 
 
-# Programming Portfolio
-asdasd 
-- asdasd
-- adfasdf
-
-
-# Designing Fortfolio
+You can also view my resume here [RESUME2022.pdf]({{file name='RESUME2022.pdf'}})

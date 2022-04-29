@@ -1,6 +1,4 @@
-# Welcome
-
-### Marco Stetich 
+## Marco Stetich 
 Bachelors of Computer Information Systems
 
 ---

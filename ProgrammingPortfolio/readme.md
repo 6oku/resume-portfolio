@@ -5,7 +5,7 @@
 # WayToWork
 > WayToWork is a web application built as a solo project for productivity and mental health purposes. It features a minute timer, a notepad, and a to-do list in a single all in one style dashboard developed with the goal in mind to help users efficiently organize their work and projects. This project was a great experience for myself as I was doing fullstack development and gaining experience in project management. Creativity had an enourmous play with this as I was working through bugs and conceptually archeticting and designing the web app. This application was built using a variety of different languages, including javascript, python, css, and html. Here below is access to the reposity if you prefer that over the zip file of the project. 
 
-> https://github.com/6oku/WayToWork
+> #  https://github.com/6oku/WayToWork
 
 
 

@@ -1,6 +1,6 @@
 ## Marco Stetich 
-Bachelors of Computer Information Systems
-[Resume](../resume-portfolio/RESUME2022.pdf)
+> Bachelors of Computer Information Systems
+> [Resume](../resume-portfolio/RESUME2022.pdf)
 
 
 ---

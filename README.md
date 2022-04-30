@@ -1,7 +1,5 @@
 ## Marco Stetich 
 > Bachelors of Computer Information Systems
-> [Resume](../resume-portfolio/RESUME2022.pdf)
-
 
 ---
 Throughout my education I have established a great foundation in computer programming and design. In this repository you can find my curated portfolios in both programming and design, you may also view these pages by clicking one of the hyperlinks below

@@ -8,7 +8,6 @@
 
 >  https://github.com/6oku/maxwellfinessin
 
-https://maxwellfinessin.com/
 
 <br>
 

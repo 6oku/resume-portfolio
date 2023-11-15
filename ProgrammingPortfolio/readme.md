@@ -2,7 +2,6 @@
 
 ---
 
-
 # Maxwellfinessin.com
 > This was a project done for a professional barber. The client wanted a website using that was captivating and unconventional. Using technologies such as locomotive scroll I was able to do so. 
 
